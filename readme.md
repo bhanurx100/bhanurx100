@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/Portfolio-00008B?style=for-the-badge&logo=Portfolio&logoColor=white" alt="Bhanu-portfolio" />
  </a>
  <a href="https://twitter.com/Bhanu_rx100" target="_blank">
-  <img src="https://img.shields.io/badge/X-14171A?style=for-the-badge&logo=twitter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Twitter-14171A?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
   <a href="https://leetcode.com/Bhanucode/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white" /> </a>

@@ -24,7 +24,7 @@
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="https://bhanurx100.com">bhanurx100</a></b>
                 <br>
-                <b>I am aspiring full stack developer from India</b>
+                <b>Full-Stack Engineer building scalable web applications using React, Next.js, Node.js, and TypeScript.</b>
         </samp>
 </h2>
 

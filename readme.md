@@ -13,7 +13,7 @@ strengthening production-ready full-stack engineering.
 </p>
 
 <p align="center">
-  <a href="https://portfolio-2-three-khaki.vercel.app/" target="_blank">
+  <a href="https://bhanurx100.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=A78BFA" alt="Portfolio"/>
   </a>
   <a href="https://linkedin.com/in/bhanurx100" target="_blank">
